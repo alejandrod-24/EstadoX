@@ -5,6 +5,7 @@ Este repositorio contiene materiales del programa **IA para Abogados** de Estado
 ## 📄 Brochure del Programa
 
 [**Descargar Brochure PDF**](./deck_ia_abogados_estadox.pdf)
+[**Video de Introduccion**](https://youtu.be/88W1z_M9tCg)
 
 ### Programa: IA para Abogados
 - 🗓 **Inicio:** 2 de junio de 2026
